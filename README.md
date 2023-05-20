@@ -82,6 +82,6 @@ Measure model node classification using classification metrics:
 
 |Dataset|Accuracy|F1_score|
 |:----:|:----:|:----:|
-|Cora|0.8120|0.8051|
-|Citeseer|0.6930|0.6670|
-|PubMed|0.7940|0.7893|
+|Cora|0.8000|0.7986|
+|Citeseer|0.6540|0.6430|
+|PubMed|0.7440|0.7478|
